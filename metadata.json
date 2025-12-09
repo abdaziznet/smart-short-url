@@ -1,0 +1,5 @@
+{
+  "name": "SmartShort - AI Powered URL Shortener",
+  "description": "A modern, AI-enhanced URL shortener that uses Gemini to analyze links, suggest aliases, and generate smart metadata.",
+  "requestFramePermissions": []
+}
